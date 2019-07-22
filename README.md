@@ -1,3 +1,3 @@
 # senpai-fed-proyecto-final
 
-pagina creada con html iniciar con index.html.
+pagina creada con html iniciar en index.html.
